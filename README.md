@@ -1,1 +1,1 @@
-# Lab of KG (Komputer Graphics)
+# Lab of KG (Сomputer Graphics)
